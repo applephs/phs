@@ -1,1 +1,5 @@
 # phs
+<?php
+  echo 'hello'
+  ?>
+  
